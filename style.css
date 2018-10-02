@@ -1,0 +1,24 @@
+:root{
+    box-sizing: border-box;
+}
+
+::before ::after{
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+    font-family: 'Raleway', sans-serif;
+}
+
+.navbar{
+    width: 100%;
+    height: 56px;
+}
+
+.navbar .links{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    align-items: center;
+    background-color: #000;
+
+}
