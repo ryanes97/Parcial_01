@@ -90,7 +90,7 @@ article h2{
     font-size: 1.6em;
 }
 
-.btn {
+.article-btn {
     color: #fff;
     width: 100%;
     height: 50px;
@@ -121,3 +121,25 @@ article h2{
 
 }
 
+.textentry{
+    font-size: 1em;
+    width: 100%;
+    height: 50px;
+    border-radius: 8px;
+    border-width: 0;
+    margin: 10px auto;
+}
+
+.bigtextentry{
+    font-size: 1em;
+    width: 100%;
+    height: 150px;
+    border-radius: 8px;
+    border-width: 0;
+    margin: 10px auto;
+}
+
+.formtext2 {
+    padding: 10px;
+    text-align: justify;
+}
